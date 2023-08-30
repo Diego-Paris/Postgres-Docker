@@ -19,6 +19,20 @@ $ docker-compose up -d
 $ docker compose up -d
 ```
 
+## How to check database
+```bash
+# Check running containers
+$ docker ps
+```
+
+## How to turn off database
+```bash
+# Turn off database, data will be saved
+$ docker-compose down
+# or
+$ docker compose down
+```
+
 ## How to connect
 You can connect to your new database using your favorite database tool. Two great options are [pgAdmin 4](https://www.pgadmin.org/) and [DataGrip](https://www.jetbrains.com/datagrip/). You can also connect from the command line using [psql](https://www.timescale.com/blog/how-to-install-psql-on-mac-ubuntu-debian-windows/).
 
