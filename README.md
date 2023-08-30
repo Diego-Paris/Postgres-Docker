@@ -13,7 +13,11 @@ You can install [Docker Desktop](https://docs.docker.com/desktop/) which include
 # Clone repository
 $ git clone https://github.com/Diego-Paris/Postgres-Docker
 
+# Go to project folder
+$ cd Postgres-Docker/
+
 # Make sure Docker Desktop is running
+
 # Run docker compose
 $ docker-compose up -d
 # or
