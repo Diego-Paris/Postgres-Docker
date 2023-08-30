@@ -10,12 +10,6 @@ You can install [Docker Desktop](https://docs.docker.com/desktop/) which include
 
 ## How to run
 ```bash
-# Clone repository
-$ git clone https://github.com/Diego-Paris/Postgres-Docker
-
-# Go to project folder
-$ cd Postgres-Docker/
-
 # Make sure Docker Desktop is running
 
 # Run docker compose
